@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-container {
+    width: 317px;
+    height: 680px;
+    border-radius: 10px;
+    margin-block: 1rem;
+    background-color: #1A1B21;
+}
