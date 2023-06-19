@@ -8,8 +8,8 @@ export default function UserInfos() {
         <h2>Fullstack Developer</h2>
         <h3>davelopper.web</h3>
         <div className="contact-buttons">
-             <button></button>
-             <button></button>
+             <button>Email</button>
+             <button>Linkedin</button>
         </div>
         </>
     )

@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+.contact-buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+button {
+    width: 115px;
+    height: 34px;
+    font-size: 14px;
+}
+
+button:nth-child(2) {
+    background-color: #5093E2;
+    color: white;
+}
