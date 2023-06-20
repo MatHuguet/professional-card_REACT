@@ -10,8 +10,8 @@ export default function UserInfos() {
         <h2>Fullstack Developer</h2>
         <h3>davelopper.web</h3>
         <div className="contact-buttons">
-             <button><img src={LogoMail} alt="mail" width="16px"></img>Email</button>
-             <button><img src={LogoLinkedin} alt="mail" width="16px"></img>Linkedin</button>
+             <button className="button-mail"><img src={LogoMail} alt="mail" width="16px"></img>Email</button>
+             <button className="button-link"><img src={LogoLinkedin} alt="mail" width="16px"></img>Linkedin</button>
         </div>
         </div>
     )

@@ -57,3 +57,12 @@ button:nth-child(2) {
     background-color: #5093E2;
     color: white;
 }
+
+
+
+.button-mail:hover {
+    background-color: #af6d17;
+}
+.button-link:hover {
+    background-color: #133f72;
+}
